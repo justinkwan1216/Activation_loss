@@ -30,3 +30,6 @@ Accuracy comparsion
 Custom activation function(beta=2,alpha=0.5,gamma=20) and swish graph(belta=1)
 
 ![alt text](https://github.com/justinkwan1216/Activation_loss/blob/master/graph.png)
+
+the below activation function will be furthur exploded for replacement of neural network that takes negative rewards
+![alt text](https://github.com/justinkwan1216/Activation_loss/blob/master/graph2.png)
