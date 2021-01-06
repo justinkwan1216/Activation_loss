@@ -1,7 +1,9 @@
 Below we define a new activation function that coverage faster than swish on the cifar-10 dataset in a simple CNN model.
 
 Relu epoch 10 -> loss: 0.2680 - accuracy: 0.9071
+
 Swish epoch 10 -> loss: 0.8646 - accuracy: 0.6987
+
 Custom epoch 10 -> loss: 0.1428 - accuracy: 0.9499
 
 Relu
