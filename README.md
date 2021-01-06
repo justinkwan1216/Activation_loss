@@ -27,6 +27,6 @@ Accuracy comparsion
 
 ![alt text](https://github.com/justinkwan1216/Activation_loss/blob/master/loss.png)
 
-custom activation function and swish graph
+Custom activation function(beta=2,alpha=0.5,gamma=20) and swish graph(belta=1)
 
 ![alt text](https://github.com/justinkwan1216/Activation_loss/blob/master/graph.png)
