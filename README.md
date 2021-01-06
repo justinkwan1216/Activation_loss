@@ -18,11 +18,15 @@ By using cifar-10 as a simplpe example, relu has a accuracy since cifar-10 datas
 in the future, we will compare the different on different CNN model on different datasets
 
 By changing alpha, belta and gamma, we can create activation function that fits in different use case.
+
 Accuracy comparsion
+
 ![alt text](https://github.com/justinkwan1216/Activation_loss/blob/master/accuracy.png)
 
 Accuracy comparsion
+
 ![alt text](https://github.com/justinkwan1216/Activation_loss/blob/master/loss.png)
 
 custom activation function and swish graph
+
 ![alt text](https://github.com/justinkwan1216/Activation_loss/blob/master/graph.png)
